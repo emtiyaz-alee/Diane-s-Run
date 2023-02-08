@@ -1,0 +1,53 @@
+
+.navbar{
+    background-color: rgb(243, 109, 188);
+margin-bottom: -20px;
+
+    
+}
+.navbar li {
+    padding: 0px;
+    display: inline-block;
+    width: 80px;
+}
+.navbar ul{
+    margin-left: 800px;
+}
+.navbar li a{
+    text-decoration: none;
+   
+   
+    color: white;
+    
+}
+.first-section{
+    background-color: rgb(247, 242, 232);
+    padding: 10px;
+}
+.first-section li{
+    float: left;
+    color: rgb(243, 109, 188);
+
+}
+.first-section h1{
+    color: black;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.second-section a{
+    color: rgb(243, 109, 188);
+
+}
+.second-section h1,h2{
+    color: rgb(243, 109, 188);
+    font-size: 25px;
+}
+.second-section{
+    padding: 10px;
+    
+}
+footer{
+    background-color: rgb(243, 109, 188);
+    text-align: center;
+    color: white;
+}

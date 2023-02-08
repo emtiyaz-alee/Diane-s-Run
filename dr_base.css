@@ -1,0 +1,29 @@
+header #date{
+    margin-top: 20px;
+    margin-left: 780px;
+}
+#dr-logo{
+    float: right;
+    size: 500px;
+    margin-right: 120px;
+}
+header p{
+    width: 800px;
+}
+header h1{
+    color: rgb(243, 109, 188);
+
+}
+header h2{
+    color: rgb(243, 109, 188);
+
+}
+#pagetop {
+margin-top: 40px;
+}
+.container{
+    background-color: rgb(247, 242, 232);
+
+}
+
+
